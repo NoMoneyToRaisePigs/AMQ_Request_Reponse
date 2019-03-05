@@ -1,0 +1,5 @@
+activemq start
+
+netstat -na | find "61616"
+
+localhost:8168
